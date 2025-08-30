@@ -54,5 +54,5 @@ To ensure accessibility and practical usage, we developed a mobile application:
 
 ##  📱 Mobile App Demo
 
-You can interact with the project live via the mobile app:  
-[**Launch the app here**](https://bit.ly/4mhhk1s)
+Here’s a short demo of the mobile app we built for this project:  
+[**Watch on YouTube**](https://bit.ly/4mhhk1s)
