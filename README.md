@@ -51,3 +51,8 @@ To ensure accessibility and practical usage, we developed a mobile application:
 2. Integrating NLP for symptom input in natural language.
 3. Deploying the model as a cloud-based API for wider scalability.
 4. Enhancing the mobile app with multi-language support.
+
+##  📱 Mobile App Demo
+
+You can interact with the project live via the mobile app:  
+[**Launch the app here**](https://bit.ly/4mhhk1s)
