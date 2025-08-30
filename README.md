@@ -2,10 +2,13 @@
 AI-Driven Symptom Based Disease Classification
 
 🧠 AI-Driven Symptom-Based Disease Classification
+
 📌 Overview
+
 This project presents an AI-driven system for disease classification based on symptoms, developed as part of our Bachelor's thesis. The system leverages machine learning techniques to classify patient-reported symptoms into probable diseases. To demonstrate real-world applicability, we also developed a mobile application with a React Native frontend and a Python backend.
 
 📊 Dataset
+
 The dataset was sourced from Mendeley Data. We worked on 10 selected diseases relevant for early-stage symptom-based classification. Data was augmented and preprocessed to handle imbalance, encode symptoms, and improve training quality.
 For evaluation, we curated a new test set using reliable healthcare resources, including:
 1. World Health Organization (WHO)
@@ -15,6 +18,7 @@ For evaluation, we curated a new test set using reliable healthcare resources, i
 5. Mayo Clinic
 
 🛠️ Methodology
+
 1. Data Preprocessing
 - Symptom encoding
 - Handling missing values
@@ -30,6 +34,7 @@ For evaluation, we curated a new test set using reliable healthcare resources, i
 - Results validated against trusted medical sources
 
 📱 Application Development
+
 To ensure accessibility and practical usage, we developed a mobile application:
 
 1. Frontend: React Native
